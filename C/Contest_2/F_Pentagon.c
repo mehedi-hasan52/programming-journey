@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    char s1, s2, temp, t1, t2;
-    scanf("%c %c %c %c %c", &s1, &s2, &temp, &t1, &t2);
+    char s1, s2, t1, t2;
+    scanf("%c %c %c %c", &s1, &s2, &t1, &t2);
     int diff1 = abs(s1 - s2);
     if (diff1 > 2)
     {
@@ -17,7 +17,8 @@ int main()
     {
         printf("Yes\n");
     }
-    else{
+    else
+    {
         printf("No\n");
     }
 
