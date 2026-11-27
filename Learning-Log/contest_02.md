@@ -25,7 +25,7 @@ Compared to my first contest, this one felt much more challenging. Some problems
 17. R - Fan Poll
 18. S - Sorting Three Numbers
 19. T - October Marathon
-20. F - Pentagon -- I couldn't solve this one.....
+20. F - Pentagon 
 
 ## Topics Practiced
 
@@ -45,3 +45,7 @@ This contest was not easy for me. I have been sitting for almost 3-4 hours, my s
 There was one problem about a regular pentagon that I couldn't solve. It was beyond my current understanding, so I left it for now. I'll try to solve it again when I have improved my problem-solving skills.
 
 Solving 19 problems was a good experience, but I also realized that I still need a lot more practice. Hopefully, I'll do better in the next contest.
+
+
+update : 
+I solved the previous unsolved one 
